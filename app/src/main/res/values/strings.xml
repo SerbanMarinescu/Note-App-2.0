@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes App 2.0</string>
+    <string name="title_activity_biometric_authenticator">BiometricAuthenticatorActivity</string>
+</resources>
