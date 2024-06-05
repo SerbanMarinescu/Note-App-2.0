@@ -27,6 +27,27 @@ A note app made in Kotlin with Jetpack Compose
 ### Here, the user is able to:
 <pre><ul><li>Create or edit notes</li><li>Choose the note's background color from the top menu</li><li>Use the rich text editor to change the style and color of the text</li><li>Lock or unlock a note to change its private status</li></ul></pre>
 <br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+## Accessing Private Notes
+- ### To be able to view private notes, the user needs to verify their fingerprint using the scanner that opens upon selecting a private note.
+<div align="center">
+  <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/51b8a2802f0d4abf846d639f822314d3a21ab6c2/images/FingerprintPrompt.png" width=200>
+</div>
+
+
+
+## Animations
+- ### Implemented Animations to further enhance the user experience.
+<img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/MenuAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/LockUnlockNoteAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/FontSelectionAnimation.gif" width=200>
+
+
+
+
 
 
 
