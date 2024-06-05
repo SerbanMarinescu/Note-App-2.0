@@ -20,7 +20,6 @@ A note app made in Kotlin with Jetpack Compose
 <br></br>
 <br></br>
 <br></br>
-<br></br>
 
 ## Note Details Screen
 <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/a9e3d3e213b9b9c812b8fae9f204427e3aa08dff/images/Editing%20a%20note.png" width=200 align="left">
