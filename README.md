@@ -14,7 +14,7 @@ A note app made in Kotlin with Jetpack Compose
 <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/4abb188443b9c49f0a0b320edd16d693225fa221/images/MainScreen.png" width=200 align="left">
 
 ### Here, the user is able to:
-<pre><ul><li>Visualize all the created notes</li><li>Sort the notes by date or by color</li><li>Search notes by title</li><li>Create new notes, or access existing ones</li><li>Upon deleting a note, the user can undo the process if he/she so whishes</li></ul></pre>
+<pre><ul><li>Visualize all the created notes</li><li>Sort the notes by date or by color</li><li>Search notes by title</li><li>Create new notes, or access existing ones</li><li>Get results from search query in real time, as the user types something</li><li>Upon deleting a note, the user can undo the process if he/she so whishes</li></ul></pre>
 <br></br>
 <br></br>
 <br></br>
