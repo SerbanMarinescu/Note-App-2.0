@@ -3,10 +3,11 @@ A note app made in Kotlin with Jetpack Compose
 <br></br>
 
 ## Features And Specifications
-- Note Management: Create, Read, Update, Delete Notes
-- Data Persistence: Utilized Room Database for storage
-- Dependency Injection with Dagger-Hilt: To enhance maintainability
-- MVI Architecture: To improve the app's structure
+- Note Management: Create, Read, Update, Delete Notes.
+- Data Persistence: Utilized Room Database for storage.
+- Dependency Injection with Dagger-Hilt: To enhance maintainability.
+- MVI Architecture: To improve the app's structure.
+- Security and Privacy: Users can mark a note as private and access it via their fingerprint.
 <br></br>
 
 ## Notes Screen
