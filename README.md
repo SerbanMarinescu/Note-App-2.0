@@ -35,7 +35,7 @@ A note app made in Kotlin with Jetpack Compose
 <br></br>
 
 ## Accessing Private Notes
-- ### To be able to view private notes, the user needs to verify their fingerprint using the scanner that opens upon selecting a private note.
+- ### To be able to view private notes, the user needs to verify their fingerprint using the prompt that opens upon selecting the note.
 <div align="center">
   <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/51b8a2802f0d4abf846d639f822314d3a21ab6c2/images/FingerprintPrompt.png" width=200>
 </div>
@@ -44,7 +44,7 @@ A note app made in Kotlin with Jetpack Compose
 
 ## Animations
 - ### Implemented Animations to further enhance the user experience.
-<img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/MenuAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/LockUnlockNoteAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/FontSelectionAnimation.gif" width=200>
+<img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/MenuAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/LockUnlockNoteAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/7cc44bd1f1af4799736043a9285aa8286c7874ef/images/ColorPickerAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/FontSelectionAnimation.gif" width=200>
 
 
 
