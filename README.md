@@ -44,7 +44,7 @@ A note app made in Kotlin with Jetpack Compose
 
 ## Animations
 - ### Implemented Animations to further enhance the user experience.
-<img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/MenuAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/LockUnlockNoteAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/7cc44bd1f1af4799736043a9285aa8286c7874ef/images/ColorPickerAnimation.gif" width=200> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/FontSelectionAnimation.gif" width=200>
+<img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/MenuAnimation.gif" width=200> &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/LockUnlockNoteAnimation.gif" width=200> &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/7cc44bd1f1af4799736043a9285aa8286c7874ef/images/ColorPickerAnimation.gif" width=200> &nbsp; <img src="https://github.com/SerbanMarinescu/Note-App-2.0/blob/1a40da58369580838439a53d027af33d39fb6012/images/FontSelectionAnimation.gif" width=200>
 
 
 
